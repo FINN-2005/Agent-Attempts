@@ -41,6 +41,7 @@ Final Answer: Leonardo da Vinci
 ## Requirements
 - Python 3.9+  
 - [Ollama](https://ollama.ai) installed and running. (also do ```pip install ollama```)
+- Download any small llm, the code uses Gemma3:1B by default (```ollama pull gemma3:1b```)
 - `pip install asyncio` (built-in for Python 3.7+, so usually no extra install needed).
 
 ## Running

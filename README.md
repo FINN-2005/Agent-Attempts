@@ -40,7 +40,7 @@ Final Answer: Leonardo da Vinci
 
 ## Requirements
 - Python 3.9+  
-- [Ollama](https://ollama.ai) installed and running.  
+- [Ollama](https://ollama.ai) installed and running. (also do ```pip install ollama```)
 - `pip install asyncio` (built-in for Python 3.7+, so usually no extra install needed).
 
 ## Running
